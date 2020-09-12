@@ -5,3 +5,4 @@ print(c)
 
 d=a+c*2
 print(d)
+
